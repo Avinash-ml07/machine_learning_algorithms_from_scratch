@@ -1,4 +1,4 @@
-I have build following machine learning algorithms from scratch:
+I have build following machine learning algorithms from scratch:<br>
          1.Linear Regression<br>
          2.Polynomial Regression<br>
          3.Logistical Regression<br>
